@@ -1,6 +1,5 @@
 variable "vpc_name" {
   type    = string
-  default = "demo"
 }
 
 variable "vpc_cidr_block" {
